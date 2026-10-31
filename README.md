@@ -4,6 +4,16 @@ Every morning the market is open, this builds a set of slides on how members of 
 
 ![Four of the eight slides from the morning of October 30, 2026](docs/slides.jpg)
 
+## The loop
+
+```
+public filings + prices  →  estimates  →  slides  →  my phone  →  Post it?  →  posted
+        ↑                                                            │
+        └──────────────── next market morning, it runs again ────────┘
+```
+
+Every market morning the loop runs by itself. I am the only human in it: one tap on my phone decides if the slides go out.
+
 ## The slides
 
 1. Yesterday's biggest winners
